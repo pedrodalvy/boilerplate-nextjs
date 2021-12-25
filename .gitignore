@@ -34,3 +34,10 @@ yarn-error.log*
 .vercel
 
 .idea
+
+# sw stuff
+public/sw.js
+public/workbox-*.js
+
+# storybook
+storybook-static
