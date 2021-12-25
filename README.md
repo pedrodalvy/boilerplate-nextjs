@@ -1,6 +1,6 @@
 # Boilerplate for Next.js
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in new projects.
+This is a [Next.js](https://nextjs.org/) boilerplate to be used in new React projects.
 
 ## Technologies
 
@@ -38,3 +38,8 @@ You can start editing the page by modifying pages/index.js. The page auto-update
 - `test:watch`: runs jest in watch mode
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
+
+## Create a new app
+```shell
+yarn create next-app --example https://github.com/pedrodalvy/boilerplate-nextjs
+```
